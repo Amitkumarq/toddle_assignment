@@ -1,10 +1,10 @@
 ﻿# Toddle-Journal-Backend
 Task:
-Build a simple stateless microservice with the following API endpoints:
-● Authentication endpoint
-● REST API endpoints for a journal app (details below)
+Build a simple stateless microservice with the following API endpoints: <br/>
+● Authentication endpoint <br/>
+● REST API endpoints for a journal app (details below) <br/>
 
-API Details:
+API Details: <br/>
 1. Authentication endpoint:
 ● This will be a public endpoint.
 ● The request body will contain an arbitrary username/password pair.
